@@ -17,6 +17,10 @@
         {
             "name": "Instagram",
             "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Instagram.png"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Twitter.png"
         }
     ]
 }
