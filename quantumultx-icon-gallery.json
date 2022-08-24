@@ -22,5 +22,10 @@
             "name": "Twitter",
             "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Twitter.png"
         }
+        ,
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Telegram.png"
+        }
     ]
 }
