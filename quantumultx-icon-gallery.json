@@ -13,6 +13,10 @@
         {
             "name": "YouTube",
             "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/YouTube.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://raw.githubusercontent.com/hi-leo-w/my-pic-bed/master/uPic/WebIcons/Instagram.png"
         }
     ]
 }
